@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 YouCompleteMe: a code-completion engine for Vim
 ===============================================
 
