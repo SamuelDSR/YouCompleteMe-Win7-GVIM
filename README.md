@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 YouCompleteMe: a code-completion engine for Vim
 ===============================================
 
@@ -1744,3 +1745,7 @@ This software is licensed under the [GPL v3 license][gpl].
 [issue-593]: https://github.com/Valloric/YouCompleteMe/issues/593
 [issue-669]: https://github.com/Valloric/YouCompleteMe/issues/669
 [status-mes]: https://groups.google.com/forum/#!topic/vim_dev/WeBBjkXE8H8
+=======
+# YouCompleteMe-Win7-GVIM
+YouCompleteMe for Win7 and GVIM
+>>>>>>> 9ef4fd4e53e565b8d7567855b9c2b1ec19b289ad
